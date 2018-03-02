@@ -61,7 +61,7 @@ body {
   -webkit-tap-highlight-color: #027c0d; }
 
 #mainNav {
-    background-color: #027c0d;
+    background-color: #222222;
 }
     #mainNav .navbar-toggler {
         font-size: 12px;
@@ -70,7 +70,7 @@ body {
         text-transform: uppercase;
         color: white;
         border: 0;
-        background-color: #027c0d;
+        background-color: #222222;
         font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
         text-transform: uppercase;
     }
@@ -79,7 +79,7 @@ body {
         font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
     }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #027c0d; }
+      color: #222222; }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
